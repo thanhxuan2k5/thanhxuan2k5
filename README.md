@@ -1,4 +1,4 @@
-# I'm NguyenThanhXuan 👍
+# I'm NguyenThanhXuan 
 
 <img alt="My stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=thanhxuan2k5&show_icons=true&theme=radical"/>
 
