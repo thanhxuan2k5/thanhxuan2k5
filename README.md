@@ -24,14 +24,14 @@
 
 <a href="https://github.com/thanhxuan2k5/Object-Detection-with-Faster-RCNN-PASCAL_VOC2012-">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanhxuan2k5&repo=Object-Detection-with-Faster-RCNN-PASCAL_VOC2012-&theme=dark" />
+</a>      
+
+<a href="https://github.com/thanhxuan2k5/Animals-image-classification-with-Neural-Network">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanhxuan2k5&repo=Animals-image-classification-with-Neural-Network&theme=cobalt" />
 </a>
 
 <a href="https://github.com/thanhxuan2k5/Hotel_Management">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanhxuan2k5&repo=Hotel_Management&theme=onedark" />
-</a>  
-
-<a href="https://github.com/thanhxuan2k5/Animals-image-classification-with-Neural-Network">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanhxuan2k5&repo=Animals-image-classification-with-Neural-Network&theme=cobalt" />
 </a>
 
 
