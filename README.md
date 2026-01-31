@@ -10,5 +10,9 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nguyen-thanh-xuan-60899a37a) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thanhxuan2k5) 
 
+<a href="https://github.com/thanhxuan2k5/UR5-Robot-Arm-Monitoring">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanhxuan2k5&repo=
+UR5-Robot-Arm-Monitoring&theme=radical" />
+</a>    
 
 
