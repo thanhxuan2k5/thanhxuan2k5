@@ -31,6 +31,6 @@
 
 <a href="https://github.com/thanhxuan2k5/Hotel_Management">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thanhxuan2k5&repo=Hotel_Management&theme=onedark" />
-</a> tôi muốn giãn cách đều 
+</a> 
 
 
