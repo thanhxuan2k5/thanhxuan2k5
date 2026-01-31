@@ -3,10 +3,8 @@
 ### WELCOME TO MY PAGE 👋👋👋
 ## 📫 How to reach me: 
 
-| GitHub Stats | Most Used Languages |
-|--------------|--------------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=thanhxuan2k5&show_icons=true&theme=radical" height="180"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhxuan2k5&layout=compact&theme=radical" height="180"/> |
-
+ <img src="https://github-readme-stats.vercel.app/api?username=thanhxuan2k5&show_icons=true&theme=radical" height="180"/> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhxuan2k5&layout=compact&theme=radical" height="180"/> 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nguyen-thanh-xuan-60899a37a) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thanhxuan2k5) 
 
