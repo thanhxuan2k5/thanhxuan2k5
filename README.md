@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌟 Nguyen Thanh Xuan 🌟
-### 🚀 Computer Vision Enthusiast | Deep Learning Builder
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-thanh-xuan-60899a37a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thanhxuan2k5)
