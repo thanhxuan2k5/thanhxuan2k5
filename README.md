@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Nguyen Thanh Xuan 🌟
+#  Nguyen Thanh Xuan 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-thanh-xuan-60899a37a)
